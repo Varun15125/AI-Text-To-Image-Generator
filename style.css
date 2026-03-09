@@ -93,3 +93,9 @@ img{
         opacity: 0.6;
     }
 }
+
+#foot{
+    margin-top: 450px;
+    font-size: 0.9rem;
+    color: #555;
+}

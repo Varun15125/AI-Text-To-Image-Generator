@@ -10,7 +10,7 @@
 <body>
 <h1>Ai Image Generator</h1>
 <div class="search-box">
-    <input type="text" id="promt" placeholder="Enter your prompt here...">
+    <input type="text" id="prompt" placeholder="Enter your prompt here...">
     <button onclick="generateImage()"><i class="fa-solid fa-arrow-right"></i></button>
 </div>
 <div class="result-container" id="result">
@@ -20,7 +20,12 @@
             <button onclick="downloadImage()"><i class="fa-solid fa-download"></i></button>
             <button onclick="deleteImage()"><i class="fa-solid fa-trash"></i></button>
         </div>
-            <img id="generated-image" src="https://picsum.photos/id/237/536/354" alt="Generated Image">
+            <img id="generated-image" src="" alt="">
+     </div>
+     <div>
+        <footer id="foot">
+            <p>&copy; 2026 Ai Image Generator. All rights reserved. created by varun londhe </p>
+        </footer>
      </div>
 </div>
 <script src="app.js"></script>
