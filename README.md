@@ -1,9 +1,9 @@
-#🎨 AI Text To Image Generator
+# AI Text To Image Generator
 
 An AI-powered web application that converts text prompts into images using the ClipDrop API.
 Built with HTML, CSS, and JavaScript, the application allows users to enter a description and generate AI-created images instantly.
 
-#🚀 Features
+# Features
 
 🧠 Generate images from text prompts using AI
 
@@ -15,7 +15,7 @@ Built with HTML, CSS, and JavaScript, the application allows users to enter a de
 
 🎯 Simple and lightweight frontend project
 
-#🛠️ Tech Stack
+# Tech Stack
 
 HTML5 – Structure of the web page
 
@@ -25,13 +25,13 @@ JavaScript (ES6) – Functionality and API calls
 
 ClipDrop API – AI image generation
 
-#📂 Project Structure
+# Project Structure
 AI-Text-To-Image-Generator
 index.html        # Main webpage
 style.css         # Styling file
 script.js         # JavaScript logic
 README.md         # Project documentation
-#⚙️ How It Works
+# How It Works
 
 User enters a text prompt describing the image.
 
@@ -41,7 +41,7 @@ The API processes the request and generates an image.
 
 The generated image is displayed on the webpage dynamically.
 
-#📦 Installation & Setup
+# Installation & Setup
 
 1️⃣ Clone the repository
 
@@ -58,7 +58,7 @@ const API_KEY = "xxxxxxxxxxxxxxxxxxxxxxxxxxx";
 4️⃣ Open the project
 Simply open index.html in your browser.
 
-#🖼️ Usage
+# Usage
 
 Enter a text description (example: "A futuristic city at sunset").
 
@@ -68,7 +68,7 @@ Wait a few seconds for the AI to create the image.
 
 View the generated result instantly.
 
-#📸 Example Prompt
+# Example Prompt
 A cyberpunk city with neon lights at night
 🔮 Future Improvements
 
@@ -78,11 +78,11 @@ Multiple image generation
 
 Loading animation
 
-#🤝 Contributing
+# Contributing
 
 Contributions are welcome!
 If you'd like to improve this project, feel free to fork the repository and submit a pull request.
 
-#📜 License
+# License
 
 This project is licensed under the MIT License.
