@@ -55,8 +55,7 @@ cd AI-Text-To-Image-Generator
 
 const API_KEY = "xxxxxxxxxxxxxxxxxxxxxxxxxxx";
 
-4️⃣ Open the project
-Simply open index.html in your browser.
+
 
 # Usage
 
